@@ -1,4 +1,4 @@
-class Book (var title: String){
+class Book (private var title: String){
 
     //var title: String = ""
     var author: String = ""
